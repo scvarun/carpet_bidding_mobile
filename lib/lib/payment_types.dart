@@ -1,0 +1,1 @@
+const paymentTypes = ["Cash", "Invoice"];

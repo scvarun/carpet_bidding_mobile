@@ -1,0 +1,1 @@
+enum Paranoid { yes, no }
